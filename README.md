@@ -23,8 +23,8 @@ This README provides an overview of the  website, outlining its main features, t
 1. Clone the repository.
 2. Install dependencies.
 3.  Set up environment variables:
-- Create a `.php` file in the root directory.
-- Add environment variables for database connection .
+      - Create a `.php` file in the root directory.
+      - Add environment variables for database connection .
 
 4. Start the development server.
 5. Access the website in your browser at 'http://localhost:8080/folder_name/file_name'.
