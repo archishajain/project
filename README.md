@@ -1,4 +1,4 @@
-# project
+# Project
 # Fund-Tastic Art
 
 Welcome to the Artist and Sponsors website README.
