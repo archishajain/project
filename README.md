@@ -14,7 +14,7 @@ This README provides an overview of the  website, outlining its main features, t
 - **Sponsorship Opportunities:** Sponsors can upload their sponsorship through google form and then company see response and approve them and display on web page .
 
 ## Technologies Used
- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP , MySQL
 - **Database:**  MySQL (Xampp)
 
