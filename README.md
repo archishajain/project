@@ -39,4 +39,4 @@ Contributions to the Fund-Tastic Art website are welcome! If you'd like to contr
 
 ## Contact
 
-If you have any questions or feedback regarding the Fund-Tastic Art website, feel free to contact us at "artistandsponsors@example.com".
+If you have any questions or feedback regarding the Fund-Tastic Art website, feel free to contact us at "Fundtastic_art@example.com".
